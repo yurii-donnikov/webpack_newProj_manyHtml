@@ -1,0 +1,1 @@
+document.getElementById('about').style = 'color: #fdd'

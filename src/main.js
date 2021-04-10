@@ -1,0 +1,1 @@
+document.getElementById('index').style = 'color: #ff0'
